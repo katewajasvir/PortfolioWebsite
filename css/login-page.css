@@ -1,0 +1,40 @@
+body{
+    padding:10px 50px;
+    
+    background-color: transparent;
+     /* color:rgb(208, 89, 219); */
+}
+
+h1
+{
+    color:#09385a;
+    
+}
+.fromdesign
+{
+    
+    width: 100%;
+    height: 600px;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.formdesign input{
+    border:1px solid lightgreen;
+    background-color:lavender;
+    border-radius:4px;
+    font-size:15px;margin:14px;
+}
+.fromerror{
+    color:red;
+}
+.but
+{
+    border-radius: 9px;
+    width: 90px;
+    height: 50px;
+    font-size: 25px;
+    margin: 22px 20px;
+    background: #226899;
+}
